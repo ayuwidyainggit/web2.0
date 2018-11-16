@@ -13,7 +13,7 @@ Sesungguhnya terdapat 5 teknologi yang digunakan sebagai pondasi utama yang digu
 
 Kombinasi dari penggunaan ke-5 teknologi yang telah disebutkan diatas memungkinkan untuk pengembangan aplikasi web berbasis Rich Internet Application (RIA), dimana aplikasi web berbasis RIA dapat didefinisikan sebagai sebuah aplikasi web yang memiliki kemampuan layaknya aplikasi desktop tradisional. Perbedaannya adalah aplikasi web berbasis RIA merupakan aplikasi yang diakses dengan menggunakan aplikasi browser yang dapat berjalan dalam jaringan lokal (intranet atau offline) mau-pun menggunakan jaringan internet (online). Kemudian apakah yang menjadi keistimewaan aplikasi web 2.0 berbasis RIA ini ?. Hal yang pertama adalah bahwa aplikasi web berbasis RIA tidak memer-lukan tools atau perangkat lunak khusus dalam pengembangannya karena XHTML, XML dan Javas-cript yang merupakan teknologi inti dari web 2.0 merupakan bahasa scripting standar yang sudah lama digunakan dalam berbagai aplikasi berbasis web yang telah didukung oleh banyak browser. Hal beri-kutnya adalah perbedaan mengenai mekanisme atau cara kerja antara arsitektur web klasik 1.0 dan web 2.0 menggunakan AJAX yang akan ditampilkan pada gambar ilustrasi berikut : 
 
-![g](https://github.com/ayuwidyainggit/tct/blob/master/images/jin.jpg)
+![g](https://github.com/ayuwidyainggit/web2.0/blob/master/1.png)
 
 ### Karakteristik-karakteristik dari web 2.0 :
 
